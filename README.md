@@ -9,17 +9,18 @@ Bu repo, [Kodluyoruz](www.kodluyoruz.org) Front-End Eğitimi kapsamında açtı�
 
 Önce projeyi klonladık (buraya kendi repomuzdan aldığımız link gelecek).
 
-``` git clone https://github.com/zehraseren/kodluyoruzilkrepo.git
+``` 
+git clone https://github.com/zehraseren/kodluyoruzilkrepo.git
 ```
 
 ------------------------------------------------------------------------------------------------
 
 # Usage 
 
-
 Projeyi klonladıktan sonra Visual Studio Code programında açtık.
 
-``` Linux için:
+```
+Linux için:
 cd kodluyoruzilkrepo
 code.
 ```
